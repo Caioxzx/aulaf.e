@@ -1,2 +1,2 @@
 # aulaf.e
-SITE:
+SITE:https://caioxzx.github.io/aulaf.e/
